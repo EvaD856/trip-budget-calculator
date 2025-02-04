@@ -1,0 +1,20 @@
+Input 1 - Please input airfare cost per person
+
+Input 2 - Please input daily food budget per person
+
+Input 3 - Please input how many days the trip will last
+
+Input 4 - Please input excursion costs for the whole family
+
+Input 5 - Please input souvenir budget for the whole family
+
+Total = (Input 1 x 4,) +,( Input 2 x 4 x Input 3) , +, Input 4 + Input 5
+
+If total is equal to or below 6000,
+    Display cost and confirm budget approved and say either exactly 6000 or display how much is left
+
+If total is above 6000,
+    Budget has exceeded, suggest reducing expenses
+
+Else: Error(?)
+
